@@ -1,2 +1,2 @@
 # Calculator
-Basic Calculator
+Basic Console Calculator
