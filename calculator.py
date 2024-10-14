@@ -37,9 +37,6 @@ while True:
                 continue
             result = number1 / number2 
             print("Division Of Two Numbers: ", result)
-        else:
-            print("You Enter An Invalid Result")
-            exit()
     
 
     print('''----------------------------------------------------------------------------------''')
